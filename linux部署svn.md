@@ -1,4 +1,4 @@
-## linux简单部署svn
+## linux部署svn
 	
 ### 1.安装svn服务端
 
